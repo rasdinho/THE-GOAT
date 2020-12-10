@@ -23,5 +23,13 @@
     /* background: url('https://image.winudf.com/v2/image/Y29tLmFiaGkuZm9vdGJhbGx3YWxscGFwZXJzX3NjcmVlbl8yXzE1MzExNTQ5MDlfMDE3/screen-2.jpg?fakeurl=1&type=.jpg'); */
     background: url('https://cdn.wallpapersafari.com/82/33/vEyhDl.png');
     background-position: center center;
+    background-origin: content-box;
+    background-size: cover;
+    background-attachment: fixed;
+    -webkit-filter: brightness(3);
+    filter: brightness(3);
+    -o-filter: brightness(3);
+    -moz-filter: brightness(3);
+    z-index: -1;
   }
 

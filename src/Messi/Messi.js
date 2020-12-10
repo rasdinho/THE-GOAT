@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Messi.css'
 
 class Messi extends Component {
     render() {

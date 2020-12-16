@@ -73,4 +73,12 @@
   #sixth-page{
     font-family: "Titillium Web", "lato" , sans-serif;
   }
+  @import url(https://fonts.googleapis.com/css?family=Titillium+Web:200,900|Lato:100,300,900);
   
+  @media screen and (max-width: 630px){
+    #sixth-logo{
+      font-size: 3rem;
+      margin-left: -9rem;
+      margin-top: -1rem;
+    }
+  }

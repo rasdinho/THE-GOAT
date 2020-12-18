@@ -9,7 +9,7 @@ class Messi extends Component {
         <div class="sixth-bg"></div>
         <div class="lightningg flashit"></div>
 
-        <div id="sixth-logo">
+        <div id="sixth-logo" data-aos="fade-up">
         <h1>THE <span>🐐 GOAT</span></h1>
         </div>
 </section>
